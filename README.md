@@ -25,7 +25,8 @@ A responsive portfolio built with HTML, CSS, and JavaScript. No package installa
 4. Under **Build and deployment**, choose **Deploy from a branch**.
 5. Select branch `main` and folder `/(root)`, then click **Save**.
 6. Wait for the Pages deployment to complete. The site URL will be shown in Settings → Pages.
+# Rupritha — Personal Portfolio
 
-You can alternatively name the repository `rupritha-gr.github.io` for a user site at `https://rupritha-gr.github.io`, if that repository name is available. For a project repository named `rupritha-portfolio`, the URL will usually be `https://rupritha-gr.github.io/rupritha-portfolio/`. Verify the exact URL in GitHub Pages settings after publishing.
+🌐 **[View My Live Portfolio](https://rupritha-gr.github.io/rupritha-portfolio/)**
 
-GitHub Pages hosts static files and makes the published site public. Review the content before publishing.
+Welcome to my personal portfolio, showcasing my projects, technical skills, education, and experience.
